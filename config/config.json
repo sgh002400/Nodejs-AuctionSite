@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "nodejsbook",
+    "password": "auction",
     "database": "nodeauction",
     "host": "127.0.0.1",
     "dialect": "mysql"
